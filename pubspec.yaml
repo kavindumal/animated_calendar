@@ -1,6 +1,6 @@
 name: animated_calendar
 description: "A beautiful, animated calendar package for Flutter with a blue-and-white theme."
-version: 1.0.0
+version: 1.0.1
 repository: https://github.com/kavindumal/animated_calendar
 homepage: https://kavindusportfolio.web.app/
 environment:
