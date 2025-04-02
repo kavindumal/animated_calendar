@@ -1,15 +1,17 @@
 name: animated_calendar
-description: A starting point for Dart libraries or applications.
+description: "A beautiful, animated calendar package for Flutter with a blue-and-white theme."
 version: 1.0.0
-# repository: https://github.com/my_org/my_repo
-
+repository: https://github.com/kavindumal/animated_calendar
+homepage: https://kavindusportfolio.web.app/
 environment:
-  sdk: ^3.6.1
+  sdk: ">=3.0.0 <4.0.0"
 
-# Add regular dependencies here.
 dependencies:
-  # path: ^1.8.0
+  flutter:
+    sdk: flutter
+  intl: any
+  table_calendar: any
 
 dev_dependencies:
-  lints: ^5.0.0
-  test: ^1.24.0
+  flutter_test:
+    sdk: flutter
